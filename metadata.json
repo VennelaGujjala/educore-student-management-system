@@ -1,0 +1,6 @@
+{
+  "name": "EduCore — Student Database & Academic Records System",
+  "description": "Enterprise student information system with full CRUD operations, intelligent natural language record query assistant, and REST API explorer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
